@@ -45,7 +45,7 @@
 """
 
 
-#6 Define a function to convert number to words for upto four digit. Note that you can use any package or library.
+#6 Define a function to convert number to words for upto four digit. Note that you cannot use any package or library.
 # Every word should be defined by you
 # Example -- int2_word(5) --> five
 # int2_word(999) ---> Nine hundred ninety nine
